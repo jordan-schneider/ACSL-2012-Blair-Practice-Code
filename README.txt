@@ -1,0 +1,1 @@
+On MAy 18th, 2012, the Blair ACSL team speant 3 hours writing a bunch of code that may or may not have worked. And now were dumping it here for all to see. By all I mean Junior Team.
