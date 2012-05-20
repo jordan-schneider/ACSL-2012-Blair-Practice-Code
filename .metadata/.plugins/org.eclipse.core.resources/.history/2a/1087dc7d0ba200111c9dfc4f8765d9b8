@@ -1,0 +1,11 @@
+import java.util.Random;
+
+
+public class fakeData {
+	public static double percent = .05;
+	public static void main(String[] args) {
+		for(int i=0;i<10;i++){
+			System.out.println(Math.random()*(1.88*(1+percent))-(1.88*(1-percent)));
+		}
+	}
+}
