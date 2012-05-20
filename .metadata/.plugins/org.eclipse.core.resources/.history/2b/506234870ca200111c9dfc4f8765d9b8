@@ -1,0 +1,12 @@
+import java.util.Random;
+
+
+public class fakeData {
+	public static double percent = .1;
+	public static double data = 3.54;
+	public static void main(String[] args) {
+		for(int i=0;i<10;i++){
+			System.out.println(Math.random()*(2*data*percent)+data*(1-percent));
+		}
+	}
+}
