@@ -1,3 +1,4 @@
+package Senior;
 import java.util.Scanner;
 
 
